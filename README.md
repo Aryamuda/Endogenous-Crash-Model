@@ -1,5 +1,8 @@
 # Stochastic Precursors of Critical Transitions in Endogenously Synchronized Markets
 
+> **Revision in progress for resubmission to Chaos, Solitons & Fractals (Elsevier)**  
+> Preprint: [SSRN DOI: 10.2139/ssrn.6070347](https://ssrn.com/abstract=6070347)
+
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Status](https://img.shields.io/badge/status-Research%20Prototype-orange)
